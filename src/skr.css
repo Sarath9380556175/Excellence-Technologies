@@ -6,7 +6,7 @@
     background-color:chocolate;
     background-image: url('../src/hello1.jpg');
     background-blend-mode: lighten;
-    clip-path: polygon(100% 7%, 60% 43%, 93% 93%, 0 100%, 0 0);
+    
 
 
 }
